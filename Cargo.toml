@@ -1,0 +1,9 @@
+[package]
+name = "sci"
+version = "0.0.0"
+authors = ["Sebastian Köln <sebk@rynx.org>"]
+description = "placeholder for rust-sci"
+repository = "https://github.com/s3bk/sci.git"
+documentation = "https://rust-sci.github.io/"
+
+[dependencies]
